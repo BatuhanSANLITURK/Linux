@@ -1,0 +1,3 @@
+Raspberry açılışında bir web sitesini fullscreen olarak başlatmak için;
+  # chromium-browser http://www.google.com   
+  
